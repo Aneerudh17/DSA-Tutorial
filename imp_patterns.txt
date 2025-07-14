@@ -1,0 +1,33 @@
+*Patterns i found so far*
+
+if input array is sorted:
+    Binary search
+    two pointers
+
+if asked for permutations/subsets:
+    Backtracking
+
+if given a tree:
+    DFS
+    BFS
+
+if given a linked list:
+    Two pointers
+
+if recursion is banned:
+    stack
+
+if must solve in place:
+    swap corresponding values
+    store one or more different values in the same pointer
+
+if asked for maximum or minimum subarray:
+    Dynamic programming
+
+if asked for top/least k items then:
+    Heap
+    quick select
+
+if asked for common strings then:
+    map
+    trie
