@@ -31,3 +31,12 @@ if asked for top/least k items then:
 if asked for common strings then:
     map
     trie
+
+To Skip Duplicates:
+Most of the cases*
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+
+To do: *will delete it later*
+learn searching and sorting alg
+fast and slow pointers
